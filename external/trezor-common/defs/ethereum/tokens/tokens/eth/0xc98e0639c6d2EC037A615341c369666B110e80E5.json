@@ -1,0 +1,33 @@
+{
+  "symbol": "EMLBT",
+  "address": "0xc98e0639c6d2EC037A615341c369666B110e80E5",
+  "decimals": 8,
+  "name": "eMLBTcoin",
+  "ens_address": "",
+  "website": "https://elbt.io/",
+  "logo": {
+    "src": "",
+    "width": "",
+    "height": "",
+    "ipfs_hash": ""
+  },
+  "support": {
+    "email": "support@elbt.io",
+    "url": ""
+  },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/elbtcoin/",
+    "forum": "",
+    "github": "https://github.com/eMLBTcoin/",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "https://www.reddit.com/user/eMLBTcoin/",
+    "slack": "",
+    "telegram": "https://t.me/joinEMLBT/",
+    "twitter": "https://www.twitter.com/eMLBTCoin",
+    "youtube": ""
+  }
+}
