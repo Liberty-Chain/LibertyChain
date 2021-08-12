@@ -47,6 +47,7 @@ const uint64_t testnet_hard_fork_version_1_till = 624633;
 
 const hardfork_t stagenet_hard_forks[] = {
   // version 1 from the start of the blockchain
-  { 1, 1, 0, 1627060976 }
+  { 1, 1, 0, 1627060976 },
+  { 14, 16000, 0, 1628842686 }
 };
 const size_t num_stagenet_hard_forks = sizeof(stagenet_hard_forks) / sizeof(stagenet_hard_forks[0]);
